@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>531719580438-qqddo8agp6h5os1dh9vnq7d9m51nbuna.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.531719580438-qqddo8agp6h5os1dh9vnq7d9m51nbuna</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>531719580438-ha26i1sgos6qq2v4q5d63o1gcjggip4o.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALpEM8yQH_bh5aeTMz8CaqIBDMn3FJ3IE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>531719580438</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.secapp</string>
+	<key>PROJECT_ID</key>
+	<string>secnewsapp-464a4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>secnewsapp-464a4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:531719580438:ios:adf2a048ac9eb23d3b7e37</string>
+	<key>DATABASE_URL</key>
+	<string>https://secnewsapp-464a4.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,223 @@
+{
+  "project_info": {
+    "project_number": "531719580438",
+    "firebase_url": "https://secnewsapp-464a4.firebaseio.com",
+    "project_id": "secnewsapp-464a4",
+    "storage_bucket": "secnewsapp-464a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531719580438:android:bbc4a767dbd5c460",
+        "android_client_info": {
+          "package_name": "com.example.mysqlconnector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531719580438-ha26i1sgos6qq2v4q5d63o1gcjggip4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mysqlconnector",
+            "certificate_hash": "d825f0b8f00f69a3e18abe980541a8047380e2f1"
+          }
+        },
+        {
+          "client_id": "531719580438-36fj33qr6dfb3ilpqthrea07nf37kd8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzA6An6fnm7Zkme_H-RSKtMDeCBB1dFXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531719580438-36fj33qr6dfb3ilpqthrea07nf37kd8m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531719580438-2ai6sma2lel8tvepr01sb9mrvdhj6h70.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.secondnewsappflutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531719580438:android:c3a1ebede63764033b7e37",
+        "android_client_info": {
+          "package_name": "com.example.secapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531719580438-36fj33qr6dfb3ilpqthrea07nf37kd8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzA6An6fnm7Zkme_H-RSKtMDeCBB1dFXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531719580438-36fj33qr6dfb3ilpqthrea07nf37kd8m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531719580438-2ai6sma2lel8tvepr01sb9mrvdhj6h70.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.secondnewsappflutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531719580438:android:8f6e4487c922e6c2",
+        "android_client_info": {
+          "package_name": "com.news.manageusers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531719580438-7o2rqmq67u0ltj7jubbgovm38p391j96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.news.manageusers",
+            "certificate_hash": "b27f1b1ed6d5e34765d3c276d33b0982a48cced6"
+          }
+        },
+        {
+          "client_id": "531719580438-36fj33qr6dfb3ilpqthrea07nf37kd8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzA6An6fnm7Zkme_H-RSKtMDeCBB1dFXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531719580438-36fj33qr6dfb3ilpqthrea07nf37kd8m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531719580438-2ai6sma2lel8tvepr01sb9mrvdhj6h70.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.secondnewsappflutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531719580438:android:aea860a448aaab77",
+        "android_client_info": {
+          "package_name": "com.news.secadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531719580438-0nhqdtckrd47nd1r41mg0jk4o5k1o28d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.news.secadminapp",
+            "certificate_hash": "b27f1b1ed6d5e34765d3c276d33b0982a48cced6"
+          }
+        },
+        {
+          "client_id": "531719580438-36fj33qr6dfb3ilpqthrea07nf37kd8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzA6An6fnm7Zkme_H-RSKtMDeCBB1dFXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531719580438-36fj33qr6dfb3ilpqthrea07nf37kd8m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531719580438-2ai6sma2lel8tvepr01sb9mrvdhj6h70.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.secondnewsappflutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531719580438:android:636b1fd2b927d054",
+        "android_client_info": {
+          "package_name": "com.news.secnewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531719580438-2lu1m3lla5h28r0qhtf3gq8h1feusg7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.news.secnewsapp",
+            "certificate_hash": "b27f1b1ed6d5e34765d3c276d33b0982a48cced6"
+          }
+        },
+        {
+          "client_id": "531719580438-36fj33qr6dfb3ilpqthrea07nf37kd8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzA6An6fnm7Zkme_H-RSKtMDeCBB1dFXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531719580438-36fj33qr6dfb3ilpqthrea07nf37kd8m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531719580438-2ai6sma2lel8tvepr01sb9mrvdhj6h70.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.secondnewsappflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
